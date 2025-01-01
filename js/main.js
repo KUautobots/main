@@ -65,7 +65,7 @@
         loop: true,
         margin: 0,
         items: 1,
-        dots: true,
+        dots: false,
         animateOut: 'fadeOut',
         animateIn: 'fadeIn',
         smartSpeed: 1200,
